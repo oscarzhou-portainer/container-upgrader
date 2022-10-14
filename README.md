@@ -1,6 +1,11 @@
 # container-upgrader
 a helper docker image to upgrade the docker container which created it
 
+## Related Projects
+
+https://github.com/portainer/portainer-ee/tree/fedex/agents-bulk-upgrade
+
+https://github.com/portainer/agent/tree/fedex/agents-bulk-upgrade
 
 ## Research Process
 
